@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Priyanshu Jhaginia and I'm a Full-Stack Developer from Faridabad,Haryana</h1>
+<h3 align="left">Hi 👋! My name is Priyanshu Jhaginia and I'm a Full-Stack Developer from Faridabad,Haryana</h3>
 
 ###
 
